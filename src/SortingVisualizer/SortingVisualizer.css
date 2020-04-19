@@ -1,0 +1,16 @@
+.array-container{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    position: absolute;
+     top:15vh; 
+    left:100px
+}
+.array-bar{
+    width: 2px;
+    top:50;
+    font-size:11px;
+    display: inline-block;
+    background-color: blueviolet;
+    margin: 0 1px;
+}
